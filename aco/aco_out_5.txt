@@ -1,0 +1,2 @@
+Time of the algo: 0.01
+length: 140
